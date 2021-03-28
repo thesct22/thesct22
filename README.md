@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -I’m currently learning DevOps and Cloud Computing
--Ask me about IoT
+
 -How to reach me: sharathct22@gmail.com
