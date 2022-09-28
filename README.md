@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 🧔🏼
 
 <!--
 **thesct22/thesct22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--I’m currently learning DevOps and Cloud Computing
+- DevOps guy doing his internship in Ansys
 
--How to reach me: sharathct22@gmail.com
+- Reach me on LinkedIn at [Sharath Thomas](https://www.linkedin.com/in/sharathct22/)
