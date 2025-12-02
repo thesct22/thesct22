@@ -9,4 +9,4 @@
 
 ![Sharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesct22)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thesct22&theme=github-dark&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thesct22)](https://git.io/streak-stats)
